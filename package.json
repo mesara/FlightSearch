@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@devexpress/dx-react-core": "^1.10.5",
+    "@devexpress/dx-react-grid": "^1.10.5",
+    "@devexpress/dx-react-grid-material-ui": "^1.10.5",
+    "@material-ui/core": "^3.9.3",
+    "moment": "^2.24.0",
+    "react-flexbox-grid": "^2.1.2"
+  }
+}
